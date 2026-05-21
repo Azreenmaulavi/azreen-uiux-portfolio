@@ -52,7 +52,7 @@ Food ordering application UI designed for seamless browsing, ordering, and respo
 
 Add your deployed GitHub Pages link here:
 
-https://yourusername.github.io/azreen-portfolio/
+https://azreenmaulavi.github.io/azreen-uiux-portfolio/
 
 ---
 
